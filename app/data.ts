@@ -78,7 +78,6 @@ export const projects: Project[] = [
       "XML",
       "JavaScript",
       "PostgreSQL",
-      "The Capital Cloud",
     ],
     location: "BIFFOUN (Gabon) / Kinshasa (Congo)",
   },
