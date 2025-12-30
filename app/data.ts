@@ -72,18 +72,13 @@ export const projects: Project[] = [
       "Synchronisation des données terrain",
       "Mise en place de la comptabilité analytique",
     ],
-    technologies: [
-      "Odoo",
-      "Python",
-      "XML",
-      "JavaScript",
-      "PostgreSQL",
-    ],
+    technologies: ["Odoo", "Python", "XML", "JavaScript", "PostgreSQL"],
     location: "BIFFOUN (Gabon) / Kinshasa (Congo)",
   },
   {
     title: "The Capital Cloud",
-    description: "Plateforme SaaS de gestion et visualisation de données",
+    description:
+      "Plateforme SaaS complète de gestion financière personnelle et professionnelle. Permet de suivre ses dépenses, catégoriser les transactions, générer des rapports détaillés et visualiser l'évolution de ses finances grâce à des graphiques interactifs. Interface intuitive et moderne pour une gestion optimale du budget.",
     role: "Développeur full-stack",
     technologies: ["React", "Node.js", "PostgreSQL"],
     link: "https://the-capital-cloud.vercel.app/",
